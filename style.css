@@ -14,4 +14,17 @@ body{
     height: 200px;
 }
 
-#ingredientes{}
+#produtos{
+    display: flex;
+    justify-content: center;
+}
+
+#fazer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#gif{
+    display: flex;
+    justify-content: right;
+}
